@@ -48,7 +48,7 @@ export default function ProjectDetails() {
                     image: "/images/Projects.png",
                 },
             ],
-            liveUrl: "https://flowtask-dashboard.vercel.app/",
+            liveUrl: "flowtask-dashboard.vercel.app",
             githubUrl: "https://github.com/mehreenkhurshid/flowtask-dashboard",
         },
 
@@ -168,7 +168,7 @@ export default function ProjectDetails() {
                     image: "/images/cart.png",
                 },
             ],
-            liveUrl: "https://mini-ecommerce-ebon.vercel.app/",
+            liveUrl: "mini-ecommerce-ebon.vercel.app",
             githubUrl: "https://github.com/mehreenkhurshid/mini-ecommerce",
         },
     ];
