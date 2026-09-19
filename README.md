@@ -158,7 +158,7 @@ I enjoy turning ideas and designs into clean, functional, and responsive web exp
 
 **Email:** [mehreenkhurshid8@gmail.com](mailto:mehreenkhurshid8@gmail.com)
 
-**GitHub:** https://github.com/mehreenkhurshid
+**GitHub:** https://github.com/mehreenkhurshid/flowtask-dashboard
 
 **LinkedIn:** https://www.linkedin.com/in/mehreen-khurshid-9023562b6
 
